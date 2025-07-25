@@ -1,0 +1,92 @@
+<section id="overview" style="margin-bottom: 30px;">
+    <h2>行程總覽</h2>
+    <p>這是一趟為期四天三夜，專為個人設計的台灣東北角深度旅遊。行程將從充滿懷舊氣息的瑞芳山城出發，一路向北，探索基隆港都的魅力，再沿著美麗的北海岸線，感受大海的壯闊與漁港的活力，最後在溫泉鄉北投稍作停歇，並以鶯歌的藝術陶瓷為旅程畫下完美句點。此網頁將提供您詳細的景點介紹、美食推薦、住宿資訊與交通方式，讓您能輕鬆愜意地享受這趟旅程。</p>
+</section>
+
+<hr>
+
+<section id="daily-itinerary" style="margin-bottom: 30px;">
+    <h2>每日行程</h2>
+
+    <div class="day-plan" style="margin-bottom: 20px;">
+        <h3>Day 1 (8/9): 瑞芳山城探險</h3>
+        <ul>
+            <li><strong>上午：</strong>從台南搭乘大眾運輸工具前往瑞芳。</li>
+            <li><strong>下午：</strong>抵達瑞芳後，可先至「北岸民宿」辦理入住並稍作休息。接著可前往<strong>九份老街</strong>，感受山城越夜越美麗的獨特氛圍，品嚐芋圓、草仔粿等在地小吃。</li>
+            <li><strong>晚上：</strong>漫步於掛滿紅色燈籠的街道，或找間茶坊，欣賞九份的夜景。</li>
+        </ul>
+    </div>
+
+    <div class="day-plan" style="margin-bottom: 20px;">
+        <h3>Day 2 (8/10): 瑞芳深度遊 & 基隆港都夜色</h3>
+        <ul>
+            <li><strong>上午：</strong>可選擇前往<strong>黃金瀑布</strong>，欣賞因礦物質氧化而呈現金黃色的奇特景觀，或是到訪曾是台灣36秘境之一的<strong>深澳象鼻岩</strong>（注意：象鼻岩景觀已崩壞，但周邊地質景觀仍值得一看）。</li>
+            <li><strong>下午：</strong>搭車前往基隆，並至「享住新大華館」辦理入住。</li>
+            <li><strong>晚上：</strong>前往熱鬧的<strong>基隆廟口夜市</strong>，品嚐各式道地小吃，如天婦羅、鼎邊趖、營養三明治等。</li>
+        </ul>
+    </div>
+
+    <div class="day-plan" style="margin-bottom: 20px;">
+        <h3>Day 3 (8/11): 北海岸逐風踏浪</h3>
+        <ul>
+            <li><strong>上午：</strong>前往<strong>和平島公園</strong>，欣賞海蝕地景，幸運的話還能看到「阿拉寶灣」的秘境。 接著可順遊正濱漁港的彩色屋，感受威尼斯般的異國風情。</li>
+            <li><strong>下午：</strong>沿著濱海公路前往台灣最北端的<strong>富貴角燈塔</strong>。 回程可至**富基漁港**大啖新鮮海產。</li>
+            <li><strong>晚上：</strong>入住北投的「馥悅溫泉酒店」，享受溫泉洗滌一身的疲憊。</li>
+        </ul>
+    </div>
+
+    <div class="day-plan">
+        <h3>Day 4 (8/12): 鶯歌陶藝巡禮 & 快樂歸途</h3>
+        <ul>
+            <li><strong>上午：</strong>在北投可以到<strong>地熱谷</strong>感受煙霧繚繞的仙境，或是在北投溫泉博物館、市立圖書館北投分館等地享受悠閒時光。</li>
+            <li><strong>下午：</strong>搭車前往鶯歌，逛逛<strong>鶯歌陶瓷老街</strong>，體驗手拉坏的樂趣，或是在特色小店尋寶。</li>
+            <li><strong>傍晚：</strong>帶著滿滿的回憶，從鶯歌搭車返回台南。</li>
+        </ul>
+    </div>
+</section>
+
+<hr>
+
+<section id="food" style="margin-bottom: 30px;">
+    <h2>美食推薦</h2>
+    <ul>
+        <li><strong>瑞芳：</strong>除了九份老街的芋圓和草仔粿，瑞芳市區的美食廣場內也有許多在地小吃，如李記蚵仔煎、豐味肉羹等。</li>
+        <li><strong>基隆：</strong>基隆廟口夜市是美食的一級戰區，推薦阿華炒麵、三明治、阿本燒賣等。</li>
+        <li><strong>北海岸：</strong>富基漁港以新鮮海產聞名，可以現挑海鮮請店家代客料理。</li>
+        <li><strong>北投：</strong>北投市場周邊有許多平價美食，如矮仔財滷肉飯、高記茶莊等，都是在地人推薦的好滋味。</li>
+        <li><strong>鶯歌：</strong>鶯歌老街上的厚道飲食店以古早味排骨飯聞名，另外阿婆壽司、彰鶯肉圓也是不容錯過的在地小吃。</li>
+    </ul>
+</section>
+
+<hr>
+
+<section id="accommodation" style="margin-bottom: 30px;">
+    <h2>住宿資訊</h2>
+    <ul>
+        <li><strong>瑞芳 北岸民宿：</strong>距離瑞芳火車站步行僅1分鐘，交通十分便利，周邊美食環繞。</li>
+        <li><strong>基隆 享住新大華館：</strong>位於基隆市區，鄰近廟口夜市，方便旅客品嚐在地美食。</li>
+        <li><strong>北投 馥悅溫泉酒店：</strong>提供舒適的溫泉設施，讓旅客在旅途中能徹底放鬆身心。</li>
+    </ul>
+</section>
+
+<hr>
+
+<section id="transportation" style="margin-bottom: 30px;">
+    <h2>交通規劃</h2>
+    <p>本次行程主要依賴大眾運輸工具，以下為各路段的交通建議：</p>
+    <ul>
+        <li><strong>台南至瑞芳：</strong>可搭乘高鐵或台鐵至台北車站，再轉乘台鐵至瑞芳車站。</li>
+        <li><strong>瑞芳至基隆：</strong>可搭乘台鐵或基隆客運。</li>
+        <li><strong>基隆至北海岸及北投：</strong>可搭乘淡水客運或台灣好行皇冠北海岸線。</li>
+        <li><strong>北投至鶯歌：</strong>搭乘捷運淡水信義線至台北車站，再轉乘台鐵至鶯歌車站。</li>
+        <li><strong>鶯歌回台南：</strong>從鶯歌車站搭乘台鐵返回台南。</li>
+    </ul>
+    <p>若想更輕鬆地遊覽北海岸，也可以考慮包車服務。</p>
+</section>
+
+<hr>
+
+<section id="map">
+    <h2>行程參考地圖</h2>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1_2gC3hX4yJ4kZ5gL8rF6tP7oX9o" width="100%" height="480"></iframe>
+</section>
